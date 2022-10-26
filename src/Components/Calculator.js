@@ -5,7 +5,7 @@ class Calculator extends React.PureComponent {
   render() {
     return (
       <div>
-        <div className="display" />
+        <div className="display">0</div>
         <div className="grid">
           <button type="button"> AC </button>
           <button type="button"> +/- </button>
