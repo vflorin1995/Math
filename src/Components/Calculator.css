@@ -2,6 +2,9 @@
   background-color: rgb(204, 203, 201);
   height: 50px;
   margin-bottom: 1px;
+  text-align: end;
+  padding-top: 25px;
+  padding-right: 16px;
 }
 
 .grid {
@@ -23,10 +26,4 @@ button {
 
 .orange {
   background-color: lightsalmon;
-}
-
-.display {
-  text-align: end;
-  padding-top: 25px;
-  padding-right: 16px;
 }
