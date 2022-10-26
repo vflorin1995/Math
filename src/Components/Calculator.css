@@ -1,0 +1,29 @@
+.display {
+  background-color: rgb(204, 203, 201);
+  height: 50px;
+  margin-bottom: 1px;
+  text-align: end;
+  padding-top: 25px;
+  padding-right: 16px;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 1px;
+}
+
+.zero {
+  grid-column-start: 1;
+  grid-column-end: 3;
+}
+
+button {
+  height: 50px;
+  border: none;
+  background-color: rgb(229, 234, 240);
+}
+
+.orange {
+  background-color: lightsalmon;
+}
