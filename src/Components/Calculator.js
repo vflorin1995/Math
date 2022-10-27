@@ -15,20 +15,19 @@ class Calculator extends React.PureComponent {
   florin(e) {
     const data = (calculate(this.state, e.target.innerText));
     this.setState(data);
-    console.log(data);
   }
 
   render() {
     const { total, next } = this.state;
-    // const display = !next ? total : next;
+    const display = !next ? total : next;
     return (
       <div>
-        <div className="display">{ total || next }</div>
+        <div className="display">{ display || 0 }</div>
         <div className="grid">
           <button type="button" onClick={(e) => { this.florin(e); }}> AC </button>
           <button type="button" onClick={(e) => { this.florin(e); }}> +/- </button>
           <button type="button" onClick={(e) => { this.florin(e); }}> % </button>
-          <button type="button" onClick={(e) => { this.florin(e); }} className="orange"> + </button>
+          <button type="button" onClick={(e) => { this.florin(e); }} className="orange"> ÷ </button>
           <button type="button" onClick={(e) => { this.florin(e); }}> 7 </button>
           <button type="button" onClick={(e) => { this.florin(e); }}> 8 </button>
           <button type="button" onClick={(e) => { this.florin(e); }}> 9 </button>
