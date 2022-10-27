@@ -31,7 +31,7 @@ class Calculator extends React.PureComponent {
           <button type="button" onClick={(e) => { this.florin(e); }}> 7 </button>
           <button type="button" onClick={(e) => { this.florin(e); }}> 8 </button>
           <button type="button" onClick={(e) => { this.florin(e); }}> 9 </button>
-          <button type="button" onClick={(e) => { this.florin(e); }} className="orange"> X </button>
+          <button type="button" onClick={(e) => { this.florin(e); }} className="orange"> x </button>
           <button type="button" onClick={(e) => { this.florin(e); }}> 4 </button>
           <button type="button" onClick={(e) => { this.florin(e); }}> 5 </button>
           <button type="button" onClick={(e) => { this.florin(e); }}> 6 </button>
