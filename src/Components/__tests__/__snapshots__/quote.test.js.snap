@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Jest Snapshot testing suite Matches DOM Snapshot 1`] = `
+<div>
+  <p>
+    Pure mathematics is, in its way, the poetry of logical ideas.- Albert Einstein
+  </p>
+</div>
+`;
