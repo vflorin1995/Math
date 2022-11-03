@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Jest Snapshot testing suite Matches DOM Snapshot 1`] = `
+<nav>
+  <h1>
+    MATH MAGICIANS
+  </h1>
+  <div>
+    <a
+      href="#/"
+      onClick={[Function]}
+    >
+      Home
+    </a>
+    <a
+      href="#/calculator"
+      onClick={[Function]}
+    >
+      Calculator
+    </a>
+    <a
+      href="#/quote"
+      onClick={[Function]}
+    >
+      Quote
+    </a>
+  </div>
+</nav>
+`;

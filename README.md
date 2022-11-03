@@ -46,6 +46,14 @@
 - GitHub: [@vflorin1995](https://github.com/vflorin1995)
 - Twitter: [@vflorin1995](https://twitter.com/vflorin1995)
 
+👤 **Freddy KABERUKA**
+- GitHub: [@freddykaberuka](https://github.com/freddykaberuka)
+- Twitter: [@trojanx07](https://twitter.com/trojanx07)
+
+👤 **Paul Kaizirege Vedasto**
+
+- GitHub: [@kaizipaul](https://github.com/kaizipaul)
+
 ## Show your support
 
 Give a ⭐️ if you like this project!
