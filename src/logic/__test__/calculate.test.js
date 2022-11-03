@@ -37,4 +37,3 @@ describe('calcule file tests', () => {
     expect(calculate({ total: '3', next: null, operation: '+' }, '5000')).toStrictEqual({ total: '3', next: '5000', operation: '+' });
   });
 });
-
