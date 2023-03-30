@@ -2,7 +2,7 @@
 
 ## Math Magicians
 
-> This is a Math website
+Math Magicians is a website that offers various resources and tools for learning and practicing math skills. The website  features articles, tutorials, and interactive activities to help users improve their math abilities.
 
 ## Live demo
 
